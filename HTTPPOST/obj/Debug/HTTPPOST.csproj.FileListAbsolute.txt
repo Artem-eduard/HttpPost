@@ -1,0 +1,30 @@
+D:\C# work\HTTPPOST\HTTPPOST\bin\Debug\HTTPPOST.exe.config
+D:\C# work\HTTPPOST\HTTPPOST\bin\Debug\HTTPPOST.exe
+D:\C# work\HTTPPOST\HTTPPOST\bin\Debug\HTTPPOST.pdb
+D:\C# work\HTTPPOST\HTTPPOST\obj\Debug\HTTPPOST.Form1.resources
+D:\C# work\HTTPPOST\HTTPPOST\obj\Debug\HTTPPOST.Properties.Resources.resources
+D:\C# work\HTTPPOST\HTTPPOST\obj\Debug\HTTPPOST.csproj.GenerateResource.cache
+D:\C# work\HTTPPOST\HTTPPOST\obj\Debug\HTTPPOST.csproj.CoreCompileInputs.cache
+D:\C# work\HTTPPOST\HTTPPOST\obj\Debug\HTTPPOST.exe
+D:\C# work\HTTPPOST\HTTPPOST\obj\Debug\HTTPPOST.pdb
+D:\C# work\HTTPPOST\HTTPPOST\obj\Debug\HTTPPOST.csprojAssemblyReference.cache
+C:\Users\joshf\Downloads\HTTPPOST (4)\HTTPPOST\bin\Debug\HTTPPOST.exe.config
+C:\Users\joshf\Downloads\HTTPPOST (4)\HTTPPOST\bin\Debug\HTTPPOST.exe
+C:\Users\joshf\Downloads\HTTPPOST (4)\HTTPPOST\bin\Debug\HTTPPOST.pdb
+C:\Users\joshf\Downloads\HTTPPOST (4)\HTTPPOST\obj\Debug\HTTPPOST.csprojAssemblyReference.cache
+C:\Users\joshf\Downloads\HTTPPOST (4)\HTTPPOST\obj\Debug\HTTPPOST.Form1.resources
+C:\Users\joshf\Downloads\HTTPPOST (4)\HTTPPOST\obj\Debug\HTTPPOST.Properties.Resources.resources
+C:\Users\joshf\Downloads\HTTPPOST (4)\HTTPPOST\obj\Debug\HTTPPOST.csproj.GenerateResource.cache
+C:\Users\joshf\Downloads\HTTPPOST (4)\HTTPPOST\obj\Debug\HTTPPOST.csproj.CoreCompileInputs.cache
+C:\Users\joshf\Downloads\HTTPPOST (4)\HTTPPOST\obj\Debug\HTTPPOST.exe
+C:\Users\joshf\Downloads\HTTPPOST (4)\HTTPPOST\obj\Debug\HTTPPOST.pdb
+D:\C# work\HTTPPOST (4)debug\HTTPPOST (4)\HTTPPOST\bin\Debug\HTTPPOST.exe.config
+D:\C# work\HTTPPOST (4)debug\HTTPPOST (4)\HTTPPOST\bin\Debug\HTTPPOST.exe
+D:\C# work\HTTPPOST (4)debug\HTTPPOST (4)\HTTPPOST\bin\Debug\HTTPPOST.pdb
+D:\C# work\HTTPPOST (4)debug\HTTPPOST (4)\HTTPPOST\obj\Debug\HTTPPOST.csprojAssemblyReference.cache
+D:\C# work\HTTPPOST (4)debug\HTTPPOST (4)\HTTPPOST\obj\Debug\HTTPPOST.Form1.resources
+D:\C# work\HTTPPOST (4)debug\HTTPPOST (4)\HTTPPOST\obj\Debug\HTTPPOST.Properties.Resources.resources
+D:\C# work\HTTPPOST (4)debug\HTTPPOST (4)\HTTPPOST\obj\Debug\HTTPPOST.csproj.GenerateResource.cache
+D:\C# work\HTTPPOST (4)debug\HTTPPOST (4)\HTTPPOST\obj\Debug\HTTPPOST.csproj.CoreCompileInputs.cache
+D:\C# work\HTTPPOST (4)debug\HTTPPOST (4)\HTTPPOST\obj\Debug\HTTPPOST.exe
+D:\C# work\HTTPPOST (4)debug\HTTPPOST (4)\HTTPPOST\obj\Debug\HTTPPOST.pdb
